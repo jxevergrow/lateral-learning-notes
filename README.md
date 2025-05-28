@@ -69,6 +69,6 @@ Each `.md` file is self-contained and beginner-friendly but written with clarity
 
 ## 📬 Contact
 
-If you're also learning or hiring and find these helpful, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jiaxinxie2025/)!
+I'm always open to connecting with fellow learners, developers, and hiring teams. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jiaxinxie2025/) or drop me an email at jessie.xie2023@gmail.com
 
 ---
