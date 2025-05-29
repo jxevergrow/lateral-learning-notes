@@ -6,9 +6,9 @@ Welcome to my **Lateral Learning Notes** — a focused, cross-language journey t
 
 This repository serves three goals:
 
-- 🎯 **Job-Readiness:** Show my technical depth and curiosity as I transition into development roles.
-- 🔍 **Deeper Understanding:** Sharpen intuition by comparing language features and runtime behavior.
+- 🔍 **Deeper Understanding:** Sharpen intuition by comparing language features and runtime behavior. Wrap up each learning session to crystallize key concepts.
 - 🧩 **Practical Reference:** Create a growing collection of bite-sized insights and code examples I (and others) can revisit anytime.
+- 🎯 **Job-Readiness:** Show my technical depth and curiosity as I transition into development roles.
 
 ---
 
@@ -53,6 +53,7 @@ I coined this term for my learning style:
 ---
 
 ## ⚙️ Tech Background
+
 - 📊 10+ years of academic experience in data analytics and economic research using Stata, R, and Python
 - 🧑‍💻 1+ year of professional full-stack development with JavaScript/TypeScript and C#
 - 📈 Currently diving deeper into Python, JS/TS, and C# to broaden technical versatility and deepen core understanding
@@ -69,6 +70,6 @@ Each `.md` file is self-contained and beginner-friendly but written with clarity
 
 ## 📬 Contact
 
-I'm always open to connecting with fellow learners, developers, and hiring teams. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jiaxinxie2025/) or drop me an email at jessie.xie2023@gmail.com
+I'm always open to connecting with fellow learners, developers, and hiring teams. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jiaxinxie2025/) or drop me an email at <jessie.xie2023@gmail.com>
 
 ---
