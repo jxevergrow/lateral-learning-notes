@@ -1,4 +1,4 @@
-# 🧠 Lateral Learning Notes: 
+# 🧠 Lateral Learning Notes 
 
 **Languages:** Python vs JavaScript/TypeScript vs C#
 
